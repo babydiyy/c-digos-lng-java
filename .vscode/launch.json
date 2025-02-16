@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exec05",
+            "request": "launch",
+            "mainClass": "exec05",
+            "projectName": "c-digos-lng-java_83807b28"
+        },
+        {
+            "type": "java",
+            "name": "exec04",
+            "request": "launch",
+            "mainClass": "exec04",
+            "projectName": "c-digos-lng-java_83807b28"
+        },
+        {
+            "type": "java",
+            "name": "exec02",
+            "request": "launch",
+            "mainClass": "exec02",
+            "projectName": "c-digos-lng-java_83807b28"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
